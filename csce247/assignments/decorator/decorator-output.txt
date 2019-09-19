@@ -1,0 +1,4 @@
+******** Ice Cream Shop *******
+I would like to order, 2 Ice Creams:
+Vannilla Ice Cream + sprinkles + a cherry on top cherry
+Chocolate Ice Cream + chocolate chips
