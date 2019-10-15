@@ -1,0 +1,9 @@
+Our hero is born
+Enter command: jump
+Our hero jumps over a tall building
+Enter command: run
+Our hero sprints faster than all the cars
+Enter command: fire
+Our hero squirts his water gun, far into the sky
+Enter command: quit
+Game over :(
