@@ -1,0 +1,21 @@
+**** Let's build houses ****
+Foundation: Adding a crawlspace, and a strong backbone.
+Framing:  Adding the brick walls.
+Drywall: Creating the interior walls.
+Windows: Putting in the glass for the windows.
+Electrical: Running all the wires and hooking up the power.
+Plumbing: Letting water run throug the house.
+
+Foundation: Adding a crawlspace, and a strong backbone.
+Framing:  Adding the vinyl walls.
+Drywall: Creating the interior walls.
+Windows: Putting in the glass for the windows.
+Electrical: Running all the wires and hooking up the power.
+Plumbing: Letting water run throug the house.
+
+Foundation: Adding a crawlspace, and a strong backbone.
+Framing:  Adding the log walls.
+Drywall: Creating the interior walls.
+Windows: Putting in the glass for the windows.
+Electrical: Running all the wires and hooking up the power.
+Plumbing: Letting water run throug the house.
